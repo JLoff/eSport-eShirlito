@@ -1,0 +1,4 @@
+Id Jugador | Nombre | VALORANT | FORTNITE | FIFA | Tipo
+-----------------------------------------------------
+4 | luis  | 100 | 10 | 30 | avanzado
+5 | claudio | 40 | 40 | 50 | avanzado
